@@ -1,9 +1,8 @@
 # Go 安全掃描工具
 
 <p align="left">
-  <img src="https://img.shields.io/github/go-mod/go-version/detectviz/go-security-tools?style=flat">
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
   <img src="https://img.shields.io/github/last-commit/detectviz/go-security-tools?style=flat">
-  <img src="https://img.shields.io/github/languages/top/detectviz/go-security-tools?style=flat">
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat">
   <img src="https://img.shields.io/github/stars/detectviz/go-security-tools?style=flat">
 </p>
