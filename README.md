@@ -1,12 +1,11 @@
 # Go 安全掃描工具
 
 <p align="left">
-  <img src="https://img.shields.io/github/go-mod/go-version/detectviz/api-endpoint-git-tracker-go?style=flat">
-  <img src="https://img.shields.io/github/last-commit/detectviz/api-endpoint-git-tracker-go?style=flat">
-  <img src="https://img.shields.io/github/languages/top/detectviz/api-endpoint-git-tracker-go?style=flat">
+  <img src="https://img.shields.io/github/go-mod/go-version/detectviz/go-security-tools?style=flat">
+  <img src="https://img.shields.io/github/last-commit/detectviz/go-security-tools?style=flat">
+  <img src="https://img.shields.io/github/languages/top/detectviz/go-security-tools?style=flat">
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat">
-  <img src="https://img.shields.io/badge/Grafana-Integration-orange?style=flat&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/github/stars/detectviz/api-endpoint-git-tracker-go?style=flat">
+  <img src="https://img.shields.io/github/stars/detectviz/go-security-tools?style=flat">
 </p>
 
 本文以 **Checkmarx** 作為商業安全掃描的基準工具，探討如何使用 **govulncheck**、**gosec**、**semgrep** 三種開源工具作為補充，實現 **零成本擴展** 和 **早期發現** 的安全保障策略。旨在為開發團隊提供全面的安全工具比較分析和實務應用指南。
